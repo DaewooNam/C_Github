@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0.Hello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.DataType.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.Operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3.Operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.Condition_if.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3.Condition2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1.Iteration.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2.Iteration.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1.Function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1.Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7.array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8.1.ptrAdress.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8.2.ptrAdress.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8.3.ptrSwap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9.1.ArrayPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9.2.ArrayPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9.3.ArrayPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9.3.VarSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9.4.ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10.1.ASCII.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10.1.ASCIIex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10.2.getchar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11.1StrPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11.2.StrFun.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11.2.StrFun1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Variables.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13.1.2-array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13.1.ex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13.ex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.1.Ptr.Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.1.PtrAry.ex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.1.PtrAry.ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.1.PtrAry.ex3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.2.PtrAry.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.3.2D-Ptr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.3.2D-Ptr.ex1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.3.2D-Ptr.ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.3.aryPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.4.funcPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.5.voidPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15.1DynamicAlloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15.2.DyAllocEtc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16.1.Struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16.2.StructPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16.3.StructPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16.4.enum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16.5.LinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17.sw.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="18.1.fopen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
